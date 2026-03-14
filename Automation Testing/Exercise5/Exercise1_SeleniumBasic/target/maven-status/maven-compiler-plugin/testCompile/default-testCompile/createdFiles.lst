@@ -1,0 +1,9 @@
+com\hmyndooo\selenium\guru99\Guru99Test.class
+com\hmyndooo\selenium\tests\BaseTest.class
+com\hmyndooo\selenium\tests\RegisterTest.class
+com\hmyndooo\selenium\login\LoginTest.class
+com\hmyndooo\selenium\pages\RegisterPage.class
+com\hmyndooo\selenium\tests\FinalLoginTest.class
+com\hmyndooo\selenium\utils\DriverFactory.class
+com\hmyndooo\selenium\pages\BasePage.class
+com\hmyndooo\selenium\pages\LoginPage.class
